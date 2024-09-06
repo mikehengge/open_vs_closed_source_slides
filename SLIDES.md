@@ -1,9 +1,9 @@
 ---
 # Metadata about the presentation:
-title: Presentation Title
-author: Your Name
-date: 2023-01-20
-keywords: some useful keywords
+title: Can Open Source compete in the business world?
+author: Mike Hengeg
+date: 2024-09-06
+keywords: open source, comparison, closed source
 
 # Presentation settings:
 # Show progress bar
@@ -20,13 +20,15 @@ pdfSeparateFragments: false
 
 # My first markdown slideshow
 
-Author: Your Name
+Author: Mike Hengge
 
 ## Agenda
 
-1. Markdown is easy to read
-2. Markdown is easy to write
-3. Let's use it for presentations
+1. What is Open Source
+1.1 Advantages & Disadvantages
+2. Comparison
+2.1 KPIs for the comparison
+2.2 How do both concepts perform in the KPIs
 
 ## A horizontal Slide
 

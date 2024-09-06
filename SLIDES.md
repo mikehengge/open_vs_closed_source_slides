@@ -18,17 +18,18 @@ pdfSeparateFragments: false
 # https://github.com/hakimel/reveal.js/blob/master/js/config.js
 ---
 
-# My first markdown slideshow
+# Can Open Source compete in the business world
 
 Author: Mike Hengge
 
 ## Agenda
 
-1. What is Open Source
-1.1 Advantages & Disadvantages
-2. Comparison
-2.1 KPIs for the comparison
-2.2 How do both concepts perform in the KPIs
+1. Introduction
+2. What is Open Source
+3. KPIs
+4. Open Source Analysis
+5. Comparison
+6. Result
 
 ## A horizontal Slide
 

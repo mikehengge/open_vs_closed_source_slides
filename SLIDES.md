@@ -24,7 +24,7 @@ Author: Mike Hengge
 
 ## Agenda
 
-1. Introduction
+1. Introduction 
 2. What is Open Source
 3. KPIs
 4. Open Source Analysis
